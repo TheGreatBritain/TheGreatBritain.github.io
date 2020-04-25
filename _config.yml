@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Britain Taylor"
+title                    : "Thomas F. Varley, M.Phil."
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Ph.D. Engineering student at Indiana University."
-url                      : https://TheGreatBritain.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Thomas Varley"
+description              : &description "PhD Student in Complex Systems & Networks and Computational Neuroscience"
+url                      : https://thosvarley.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "TheGreatBritain/TheGreatBritain.github.io"
+repository               : "thosvarley/thosvarley.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "B"
-  avatar           : "10805.jpg"
-  bio              : "Ph.D. Engineering student at Indiana University. Mental health advocate, aspiring engineering health expert, chicken tenders lover."
+  name             : "Thomas Varley"
+  avatar           : "headshot.JPG"
+  bio              : "Dual PhD Student in Complex Systems & Networks and Computational Neuroscience. Also fire-eating."
   location         : "Bloomington, IN"
   employer         : "Indiana University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "btaylor7@iu.edu
+  googlescholar    : "https://scholar.google.com/citations?user=YhEYq-0AAAAJ&hl=en&oi=sra"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "TheGreatBritain"
+  github           : "thosvarley"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/britaintaylor"
-  orcid            : #"http://orcid.org/yourorcidurl"
-  pinterest        : "https://www.pinterest.com/slickalicous"
-  soundcloud       : "https://soundcloud.com/drbritainwho"
+  linkedin         :
+  orcid            : "https://orcid.org/0000-0002-3317-9882"
+  pinterest        :
+  soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/DrBritainwho"
+  twitter          : "thosvarley"
   vine             :
   weibo            :
   xing             :
@@ -309,3 +309,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+theme: jekyll-theme-slate
