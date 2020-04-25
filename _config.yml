@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Britain Taylor."
+title                    : "Britain Taylor"
 title_separator          : "-"
 name                     : &name "Britain Taylor"
 description              : &description "PhD Ph.D. Engineering student at Indiana University"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Britain Taylor"
   avatar           : "10805.jpg"
-  bio              : "Ph.D. Engineering student at Indiana University. Mental health advocate, aspiring engineering health expert, chicken tenders lover."
+  bio              : "Ph.D. Student at Indiana University."
   location         : "Bloomington, IN"
   employer         : "Indiana University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
